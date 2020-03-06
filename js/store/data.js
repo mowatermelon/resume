@@ -176,7 +176,7 @@ export const interestData = [{
  */
 export const aboutData = {
   'avatar': 'img/avatar.jpg',
-  'name': '吴莫',
+  'name': '吴红玉',
   'motto': '行至水穷处，坐看云起时。',
   'email': 'neefoxmo@gmail.com',
   'tel': 'MTU2MjM1MjUzODA=',
@@ -186,7 +186,7 @@ export const aboutData = {
   'job': '前端工程师',
   'workAdd': '服从安排',
   'salary': '面议',
-  'postTime': '一周左右',
+  'postTime': '两周左右',
   'blog': 'https://mowatermelon.github.io/'
 };
 
